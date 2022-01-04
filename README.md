@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 I'm a high school student and I'm very interested in programming. I currently am proficient in C#, I have a somewhat good understanding of Java & C++, learning JavaScript/TypeScript. I would be happy to help anyone with any kind of project they are working on! (Just message me on discord! `@hunterp#5607`)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hlpdev&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dracula"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlpdev&layout=compact&card_width=250&hide_border=true&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlpdev&layout=compact&card_width=450&hide_border=true&theme=dracula"/>
