@@ -1,7 +1,5 @@
 <b> All of my projects will be under the [HNT8 Organizaiton](https://github.com/HNT8). </b>
 
-<i>99% of my projects will also be privated so people don't skid.</i>
-
 # About Me
 
 Languages
