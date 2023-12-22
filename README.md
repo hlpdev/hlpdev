@@ -12,7 +12,7 @@ I've been learning to code for around 5 years (as of 12/23), I originally starte
 * 🤝  I'm open to collaborating on SCP: Containment Breach Remastered
 
 <a href="https://www.twitch.tv/hunter_mxb" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/hunter_mxb?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=0f172a&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/twitch/status/hunter_mxb?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=181824&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
@@ -30,4 +30,4 @@ src="https://img.shields.io/twitch/status/hunter_mxb?logo=twitchsx&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/hlpdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hlpdev&stroke=ef4444&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+<a href="http://www.github.com/hlpdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hlpdev&stroke=ef4444&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
