@@ -8,8 +8,8 @@ I've been learning to code for around 6 years (as of 06/24), I originally starte
 
 * 🌍  I'm based in Boston, Massachusetts
 * ✉️  You can contact me at [hunter@hnt8.net](mailto:hunter@hnt8.net)
-* 🚀  I'm currently working on [NuAuth DRM Solutions](http://nuauth.xyz)
-* 🤝  I'm open to collaborating on SCP: Containment Breach Remastered
+* 🚀  I'm currently working on [NuAuth DRM Solutions](https://nuauth.xyz)
+* 🤝  I'm open to collaborating on [AdvancedBanX](https://github.com/hlpdev/AdvancedBanX)
 
 <a href="https://www.twitch.tv/hunter_mxb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/hunter_mxb?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=181824&label=TWITCH+STATUS" /></a>
