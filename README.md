@@ -4,7 +4,7 @@ Hi 👋 My name is Hunter Pollock
 Software Engineer
 -----------------
 
-I've been learning to code for around 5 years (as of 12/23), I originally started off learning C# for software development, but I have expanded into learning C, C++, Java, Python, Lua, HTML, CSS, Javascript, Typescript, and PHP. I'm confident in C#, .NET, ASP.NET, Visual C++, and Java.
+I've been learning to code for around 6 years (as of 06/24), I originally started off learning C# for software development, but I have expanded into learning C, C++, Java, Python, Lua, HTML, CSS, Javascript, Typescript, and PHP. I'm confident in C#, .NET, ASP.NET, Visual C++, and Java.
 
 * 🌍  I'm based in Boston, Massachusetts
 * ✉️  You can contact me at [hunter@hnt8.net](mailto:hunter@hnt8.net)
